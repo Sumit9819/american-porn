@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     // ⚠️ IMPORTANT: Replace this placeholder with your final destination URL.
-    const destinationLink = 'YOUR_DESTINATION_LINK_HERE';
+    const destinationLink = 'https://otieu.com/4/9864510';
 
     // Get the buttons
     const yesButton = document.getElementById('yes-btn');
